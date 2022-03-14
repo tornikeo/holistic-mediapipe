@@ -18,12 +18,5 @@ jobs:
         run:  | 
           chmod +x ./scripts/deploy.sh 
           ./scripts/deploy.sh
-      - name: Commit report
-        run: |
-          git config --global user.name 'GoodBot'
-          git config --global user.email 'GoodBot@bots.noreply.github.com'
-          git checkout -b gh-pages
-          git commit -am "Automated report"
-          git push -f origin gh-pages
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
