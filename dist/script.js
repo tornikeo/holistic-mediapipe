@@ -172,7 +172,7 @@ holistic.onResults(onResults);
 new controls
     .ControlPanel(controlsElement, {
     selfieMode: true,
-    modelComplexity: 1,
+    modelComplexity: 0,
     smoothLandmarks: true,
     enableSegmentation: false,
     smoothSegmentation: true,
