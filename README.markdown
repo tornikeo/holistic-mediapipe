@@ -1,5 +1,2 @@
-# MediaPipe - Holistic
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/tornikeo/pen/popvwmq](https://codepen.io/tornikeo/pen/popvwmq).
-
+## See a live website for this repository at [https://tornikeo.github.io/holistic-mediapipe/](https://tornikeo.github.io/holistic-mediapipe/)!
 
