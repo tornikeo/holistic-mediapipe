@@ -21,7 +21,7 @@ a:hover {
 body {
   bottom: 0;
   font-family: "Titillium Web", sans-serif;
-  color: white;
+  color: #201d1d;
   left: 0;
   margin: 0;
   position: absolute;
@@ -29,11 +29,12 @@ body {
   top: 0;
   transform-origin: 0px 0px;
   overflow: hidden;
+  background-color: #201d1d;
 }
 
 .container {
   position: absolute;
-  background-color: #596e73;
+  background-color: #201d1d;
   width: 100%;
   max-height: 100%;
 }
